@@ -1,0 +1,1 @@
+test adding a file directly through the GIT site.
